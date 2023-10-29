@@ -4,7 +4,7 @@ This repository contains a notebook focused on predicting credit default on a hi
 
 ## Overview
 
-The notebook demonstrates the application of <Insert technique or model> on a highly imbalanced dataset to predict credit default. It includes data preprocessing, exploratory data analysis (EDA), model training and evaluation.
+The notebook analyzes a highly imbalanced dataset to predict credit default. It includes data preprocessing, exploratory data analysis (EDA), model training and evaluation.
 
 ## Dataset
 
